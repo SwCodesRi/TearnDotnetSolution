@@ -1,0 +1,15 @@
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\log4net.dll
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\log4net.pdb
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\log4net.xml
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\gitrepo\TearnDotnetSolution\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
